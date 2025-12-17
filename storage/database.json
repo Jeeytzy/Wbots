@@ -1,0 +1,43 @@
+{
+  "users": {
+    "6283823097750@s.whatsapp.net": {},
+    "6283825463648@s.whatsapp.net": {},
+    "6282260620804@s.whatsapp.net": {},
+    "6289609950580@s.whatsapp.net": {},
+    "43856464740486@lid": {},
+    "6287747926792@s.whatsapp.net": {},
+    "6285198210786@s.whatsapp.net": {},
+    "100335418896608@lid": {},
+    "6282299974021@s.whatsapp.net": {},
+    "6282298469298@s.whatsapp.net": {}
+  },
+  "groups": {
+    "120363421029463055@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363420069902180@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363419791233848@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363419812625586@g.us": {
+      "antilink": false,
+      "antilink2": false
+    },
+    "120363406927743035@g.us": {
+      "antilink": false,
+      "antilink2": false
+    }
+  },
+  "settings": {
+    "welcome": true,
+    "developer": [],
+    "reseller": [],
+    "bljpm": [],
+    "respon": []
+  }
+}
